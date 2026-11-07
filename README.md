@@ -2,7 +2,7 @@
 
 <!-- OSPO-managed README | Generated: 2026-04-16 | v2 -->
 
-[![License](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](COPYING) [![ownCloud OSPO](https://img.shields.io/badge/OSPO-ownCloud-blue)](https://kiteworks.com/opensource) [![Docker Hub](https://img.shields.io/docker/pulls/owncloud)](https://hub.docker.com/r/owncloud/server) [![PHP 8.3 CI](https://github.com/alexstocker/owncloud-calendar/actions/workflows/main.yml/badge.svg)](https://github.com/alexstocker/owncloud-calendar/actions/workflows/main.yml)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](COPYING) [![ownCloud OSPO](https://img.shields.io/badge/OSPO-ownCloud-blue)](https://kiteworks.com/opensource) [![Docker Hub](https://img.shields.io/docker/pulls/owncloud)](https://hub.docker.com/r/owncloud/server) [![PHP 8.3](https://img.shields.io/github/actions/workflow/status/alexstocker/owncloud-calendar/main.yml?branch=2.1-devel&label=PHP%208.3)](https://github.com/alexstocker/owncloud-calendar/actions/workflows/main.yml)
 
 The ownCloud Calendar app provides a web-based calendar interface for ownCloud Server. It is the frontend for the server-integrated CalDAV backend, replacing the original calendar app. Users can create and manage multiple calendars, schedule events, and share calendars with other users. The app supports Chrome/Chromium 49+, Edge 14+, Firefox 45+, Internet Explorer 11, and Safari 10+.
 
