@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - 2.1-devel
   pull_request:
     types:
       - opened
